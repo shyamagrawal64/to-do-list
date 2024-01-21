@@ -1,5 +1,5 @@
 class TodoList:
-    def __init__(self):
+    def _init_(self):
         self.tasks = []
 
     def add_task(self, task):
@@ -47,5 +47,4 @@ def main():
         else:
             print("Invalid choice. Please enter a number between 1 and 4.")
 
-if __name__ == "__main__":
-    main()
+main()
