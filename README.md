@@ -1,4 +1,4 @@
-Certainly! Let's create a simple Python project for a to-do list application using a console interface. This project allows users to add tasks, view the list of tasks, and mark tasks as completed.
+This project allows users to add tasks, view the list of tasks, and mark tasks as completed.
             
 This simple to-do list application allows users to:
 
